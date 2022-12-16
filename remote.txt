@@ -4,3 +4,4 @@ the third line was added in the local repository
 this line was added to see if its possible to make a push command from git bash
 test of a new branch 
 just a line
+line added in the remote rep
