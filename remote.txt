@@ -1,3 +1,4 @@
 this is first line in the remote.txt file 
 and this is the second line 
 the third line was added in the local repository
+this line was added to see if its possible to make a push command from git bash
