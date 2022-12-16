@@ -1,2 +1,3 @@
 this is first line in the remote.txt file 
 and this is the second line 
+the third line was added in the local repository
